@@ -59,6 +59,7 @@ endmodule
 # OUTPUT
 
 **RTL realization**
+
 ![435600216-83b00688-53ce-4b6f-947d-6d64ec0e1623](https://github.com/user-attachments/assets/0e78eee7-3bbe-467a-afd1-a378f4c327d8)
 
 **Truth Diagram**
